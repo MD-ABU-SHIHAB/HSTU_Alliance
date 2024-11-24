@@ -1,5 +1,5 @@
 # HSTU Alliance - Student Information Management System
-##  The main docx file is located in project3.docx. the last file of my repo. Here is mentioned proper figures and tables
+##  The main docx file is located in project3.docx. The last file of my repo. There is mentioned proper figures and tables
 ## Overview
 
 **HSTU Alliance** is a student information management system designed for Hajee Mohammad Danesh Science and Technology University (HSTU). It simplifies the management of student-related data, providing a centralized platform for students and university administrators. The system leverages a file-based approach for storing information, eliminating the complexity of traditional database systems while ensuring easy access and secure data handling.
